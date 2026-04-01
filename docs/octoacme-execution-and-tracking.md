@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+> **Roles involved at this phase:** All roles. See [Roles & Personas](octoacme-roles-and-personas.md) and the [RACI Matrix](octoacme-roles-and-personas-raci.md) for execution-phase responsibilities.

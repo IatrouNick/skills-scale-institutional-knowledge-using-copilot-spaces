@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+> **Roles involved at this phase:** Project Manager, Product Manager, Business Analyst, QA Lead, Release Manager, Developers. See [Roles & Personas](octoacme-roles-and-personas.md) for responsibilities and the [Handoff Checklist](octoacme-handoff-checklist.md) for the Planning → Execution handoff.

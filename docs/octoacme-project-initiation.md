@@ -31,10 +31,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Stakeholder register built and communication cadence agreed (see [Handoff Checklist](octoacme-handoff-checklist.md))
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+> **Roles involved at this phase:** Project Manager, Product Manager, Business Analyst, Stakeholder Liaison. See [Roles & Personas](octoacme-roles-and-personas.md) for responsibilities.
 
 ## Decision Gate
 Move to planning when:

@@ -23,6 +23,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+> **Release owner:** Release Manager. See [Roles & Personas](octoacme-roles-and-personas.md) for the Release Manager role definition and the [Handoff Checklist](octoacme-handoff-checklist.md) for the pre-release and deployment handoff steps.
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call
