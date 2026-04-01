@@ -31,3 +31,5 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+> **Facilitator:** Project Manager. See [Roles & Personas](octoacme-roles-and-personas.md) for phase involvement and the [RACI Matrix](octoacme-roles-and-personas-raci.md) for retrospective activity ownership.
